@@ -18,3 +18,7 @@ Familiaridade com lógica de programação e pensamento computacional
 Prepare-se para uma jornada emocionante rumo à Fortaleza dos CodeMiners. Esteja pronto para enfrentar desafios, aprender novas habilidades e, quem sabe, desvendar os mistérios ocultos nas profundezas da montanha. Boa sorte, mineiro!
 
 Para aprimorar ainda mais suas habilidades e conhecimentos em C/C++, explore nossas formações profissionais, incluindo temas como Machine Learning e IoT.
+
+![Screenshot_38](https://github.com/Nayumt99/Codecamp-fortaleza-dos-codeminers/assets/68863624/66c8c3b3-86bc-468a-a0a0-157d0c65c7e0)
+
+
